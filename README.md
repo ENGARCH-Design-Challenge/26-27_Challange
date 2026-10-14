@@ -13,7 +13,7 @@ Design a Christmas ornament. If you're selected, mentors from across UCD will he
    - **maximum dimensions of 80 mm**
    - relevant technical details (how it would be made, materials, any electronics)
    - **your email address**
-2. Submit it through the entry form: **[LINK TO GOOGLE FORM]**
+2. Submit it through the entry form: **TBD**
 3. Wait for the shortlist. Selected entrants are contacted by email and invited to this repository to upload their final files.
 
 You don't need any CAD or GitHub experience to enter. The poster is enough.
@@ -53,9 +53,9 @@ Selected entrants get to:
 | Date | What happens |
 |---|---|
 | **8 November** | Poster submission deadline |
-| [TO CONFIRM] | Shortlist announced |
-| [TO CONFIRM] | Workshops |
-| [TO CONFIRM] | Ornaments added to the tree |
+| TBD | Shortlist announced |
+| TBD | Workshops |
+| TBD | Ornaments added to the tree |
 
 ---
 
@@ -76,4 +76,4 @@ samples/         example ornaments
 
 ## Questions
 
-Contact: [TO CONFIRM: email address]
+Questions? Join the WhatsApp community: TBD
