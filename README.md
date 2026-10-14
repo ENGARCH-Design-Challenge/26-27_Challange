@@ -21,10 +21,10 @@ Design a Christmas ornament. If you're selected, mentors from across UCD will he
 <img src="assets/bauble-5.png" align="right" width="110" alt="Christmas bauble">
 
 1. Make an **A4 poster** of your ornament design. It must include:
-   - your design (drawing, render or sketch)
-   - **maximum dimensions of 80 mm**
-   - relevant technical details (how it would be made, materials, any electronics)
-   - **your email address**
+   - Your design (drawing, render or sketch)
+   - **Maximum dimensions of 80 mm**
+   - Relevant technical details (how it would be made, materials, any electronics)
+   - **Your email address**
 2. Submit it through the entry form: **TBD**
 3. Wait for the shortlist. Selected entrants are contacted by email and invited to this repository to upload their final files.
 
@@ -40,14 +40,14 @@ You don't need any CAD or GitHub experience to enter. The poster is enough.
 
 Selected entrants get to:
 
-- work with mentors from **GaelForce UCD, UCD UAV, Formula Student, Elec Soc, Mech Soc and Eng Soc**
-- attend workshops in:
+- Work with mentors from **GaelForce UCD, UCD UAV, Formula Student, Elec Soc, Mech Soc and Eng Soc**
+- Attend workshops in:
   - CAD design
   - 3D printing
-  - soldering
+  - Soldering
   - PCB design
-  - laser cutting
-- have their ornament built and **displayed on the student-made Christmas tree**
+  - Laser cutting
+- Have their ornament built and **displayed on the student-made Christmas tree**
 
 <br clear="all">
 
