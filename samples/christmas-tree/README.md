@@ -34,3 +34,13 @@ Uses the same footprints as the [Snowflake](../snowflake/). Every LED has its ow
 
 - PCB design (KiCad)
 - Soldering (all through-hole, good for beginners)
+
+## Files
+
+| File | What it is |
+|---|---|
+| `Christmas_tree_pcb.kicad_pro` | KiCad project |
+| `Christmas_tree_pcb.kicad_sch` | Schematic |
+| `Christmas_tree_pcb.kicad_pcb` | PCB layout |
+
+Open `Christmas_tree_pcb.kicad_pro` in [KiCad](https://www.kicad.org/) to view the design.
