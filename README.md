@@ -55,7 +55,6 @@ Selected entrants get to:
 | **8 November** | Poster submission deadline |
 | [TO CONFIRM] | Shortlist announced |
 | [TO CONFIRM] | Workshops |
-| [TO CONFIRM] | Final files due (this repo) |
 | [TO CONFIRM] | Ornaments added to the tree |
 
 ---
@@ -66,34 +65,11 @@ Look in [`samples/`](samples/) for ornaments we made, with their files and poste
 
 ---
 
-## For shortlisted entrants: uploading your final files
-
-You'll receive an email invite to this repository. Once you accept it:
-
-1. Open the **`submissions/`** folder and find the folder with your name on it.
-2. Click **Add file → Upload files**.
-3. Drag in your files and click **Commit changes**.
-
-Please upload:
-
-| File | Format |
-|---|---|
-| 3D model | `.stl` (and your source CAD file if you can) |
-| PCB (if any) | KiCad project files, plus a PDF or PNG of the schematic and board |
-| Laser cutting (if any) | `.dxf` or `.svg` |
-| Poster | `.pdf` or `.png` |
-| Your details | fill in `info.md` |
-
-Only edit **your own folder**.
-
----
-
 ## Repository layout
 
 ```
 README.md        this page
 samples/         example ornaments
-submissions/     one folder per shortlisted entrant
 ```
 
 ---
