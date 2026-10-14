@@ -88,6 +88,15 @@ Look in [`samples/`](samples/) for ornaments we made, with their files and poste
 | <img src="samples/snowflake/images/3d-render.png" alt="Snowflake PCB render" width="250"> |
 | A super simple Snowflake PCB by Albin Andrews Joby |
 
+### 🌍 Community designs
+
+Great ornaments made by others, for inspiration. Click through to see the full design on MakerWorld.
+
+| [Christmas Gnome Couple](https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear) |
+|:---:|
+| <a href="https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear"><img src="https://makerworld.bblmw.com/makerworld/model/US38599f828d1efb/design/2025-12-18_5d5bdf68fb529.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Gnome Couple ornament" width="250"></a> |
+| By [Lumorna](https://makerworld.com/en/@_sTe_) · 3D printed |
+
 <br clear="all">
 
 ---
