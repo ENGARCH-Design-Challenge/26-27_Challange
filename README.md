@@ -92,10 +92,10 @@ Look in [`samples/`](samples/) for ornaments we made, with their files and poste
 
 Great ornaments made by others, for inspiration. Click through to see the full design on MakerWorld.
 
-| [Christmas Gnome Couple](https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear) | [Stitch Eating Star Tree Topper](https://makerworld.com/en/models/826178-stitch-eating-star-tree-topper) |
-|:---:|:---:|
-| <a href="https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear"><img src="https://makerworld.bblmw.com/makerworld/model/US38599f828d1efb/design/2025-12-18_5d5bdf68fb529.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Gnome Couple ornament" width="250"></a> | <a href="https://makerworld.com/en/models/826178-stitch-eating-star-tree-topper"><img src="https://makerworld.bblmw.com/makerworld/model/USc2b41574888eb7/design/2024-11-27_d08b41572e22d.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Stitch Eating Star tree topper" width="250"></a> |
-| By [Lumorna](https://makerworld.com/en/@_sTe_) · 3D printed | By [K's Cutesy Creations](https://makerworld.com/en/@kendrac) · 3D printed, hand painted |
+| [Christmas Gnome Couple](https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear) | [Stitch Eating Star Tree Topper](https://makerworld.com/en/models/826178-stitch-eating-star-tree-topper) | [Christmas Bauble Decoration](https://makerworld.com/en/models/872702-christmas-bauble-decoration) |
+|:---:|:---:|:---:|
+| <a href="https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear"><img src="https://makerworld.bblmw.com/makerworld/model/US38599f828d1efb/design/2025-12-18_5d5bdf68fb529.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Gnome Couple ornament" width="220"></a> | <a href="https://makerworld.com/en/models/826178-stitch-eating-star-tree-topper"><img src="https://makerworld.bblmw.com/makerworld/model/USc2b41574888eb7/design/2024-11-27_d08b41572e22d.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Stitch Eating Star tree topper" width="220"></a> | <a href="https://makerworld.com/en/models/872702-christmas-bauble-decoration"><img src="https://makerworld.bblmw.com/makerworld/model/US98b5a1ed9ab69a/design/2024-12-12_ecb8db1c67952.jpeg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Bauble Decoration" width="220"></a> |
+| By [Lumorna](https://makerworld.com/en/@_sTe_) · 3D printed | By [K's Cutesy Creations](https://makerworld.com/en/@kendrac) · 3D printed, hand painted | By [clamoraes](https://makerworld.com/en/@clamoraes) · 3D printed · 50–60 mm, fits the 80 mm box ✅ |
 
 <br clear="all">
 
