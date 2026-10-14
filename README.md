@@ -43,7 +43,7 @@ Selected entrants get to:
 | Team size | Entries are per person, not teams |
 | Max size | Your final ornament must fit inside an 80 mm x 80 mm x 80 mm box |
 | Entries per person | You can submit multiple entries |
-| Making methods | CAD / 3D printing, laser cutting, PCB design, soldering. Other methods: [TO CONFIRM] |
+| Making methods | CAD / 3D printing, laser cutting, PCB design, soldering, and any other creative method |
 | Poster format | A4, with design, dimensions, technical details and your email |
 
 ---
