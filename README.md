@@ -39,14 +39,12 @@ Selected entrants get to:
 
 | | |
 |---|---|
-| Who can enter | [TO CONFIRM: e.g. all UCD College of Engineering & Architecture students] |
-| Team size | [TO CONFIRM: individual or teams] |
+| Who can enter | All society and team members |
+| Team size | Entries are per person, not teams |
 | Max size | 80 mm in any direction |
-| Entries per person | [TO CONFIRM] |
+| Entries per person | You can submit multiple entries |
 | Making methods | CAD / 3D printing, laser cutting, PCB design, soldering. Other methods: [TO CONFIRM] |
 | Poster format | A4, with design, dimensions, technical details and your email |
-| Judging criteria | [TO CONFIRM] |
-| Number selected | [TO CONFIRM] |
 
 ---
 
