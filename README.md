@@ -1,6 +1,6 @@
 # UCD Engineering & Architecture Christmas Ornament Design Competition 2026
 
-Design a Christmas ornament. If you're selected, mentors from across UCD engineering societies will help you turn it into a real object, and it will be **displayed on the student-made Christmas tree** for the College of Engineering & Architecture.
+Design a Christmas ornament. If you're selected, mentors from across UCD will help you turn it into a real object, and it will be **displayed on the student-made Christmas tree** for the College of Engineering & Architecture.
 
 **Submission deadline: 8th November**
 
