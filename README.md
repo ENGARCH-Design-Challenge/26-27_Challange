@@ -104,10 +104,10 @@ Great ornaments made by others, for inspiration. Click through to see the full d
 
 #### 🔆 Laser cut
 
-| **[3D Wooden Snowflake (Small)](https://makerworld.com/en/models/2012370-3d-wooden-snowflake-small)** | | |
+| **[3D Wooden Snowflake (Small)](https://makerworld.com/en/models/2012370-3d-wooden-snowflake-small)** | | **[Christmas Spiral Tree](https://makerworld.com/en/models/3280994-christmas-spiral-tree-laser-cut-decoration)** | |
 |:---:|:---:|:---:|
-| <a href="https://makerworld.com/en/models/2012370-3d-wooden-snowflake-small"><img src="https://makerworld.bblmw.com/makerworld/model/DSUS0000002012370/design/2025-11-18_966f9b8a6405.png?x-oss-process=image/resize,w_600/ignore-error,1" alt="3D Wooden Snowflake (Small)" width="220"></a> | | |
-| By [Luke](https://makerworld.com/en/@GKLSevenl) · 2 interlocking 3 mm plywood parts · ~50 mm, fits the 80 mm box ✅ | | |
+| <a href="https://makerworld.com/en/models/2012370-3d-wooden-snowflake-small"><img src="https://makerworld.bblmw.com/makerworld/model/DSUS0000002012370/design/2025-11-18_966f9b8a6405.png?x-oss-process=image/resize,w_600/ignore-error,1" alt="3D Wooden Snowflake (Small)" width="220"></a> | | <a href="https://makerworld.com/en/models/3280994-christmas-spiral-tree-laser-cut-decoration"><img src="https://makerworld.bblmw.com/makerworld/model/DSUS0000003280994/design/73b71e967b54fd0e.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Spiral Tree" width="220"></a> | |
+| By [Luke](https://makerworld.com/en/@GKLSevenl) · 2 interlocking 3 mm plywood parts · ~50 mm, fits the 80 mm box ✅ | | By [André Martins](https://makerworld.com/en/@WoodWorksDecor) · Layered MDF or plywood, with snowflake cutouts | |
 
 <br clear="all">
 
