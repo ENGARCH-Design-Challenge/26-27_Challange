@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="assets/bauble-1.jpg" alt="Christmas bauble" width="120">
-  <img src="assets/bauble-2.jpg" alt="Christmas bauble" width="120">
-  <img src="assets/bauble-3.jpg" alt="Christmas bauble" width="120">
-  <img src="assets/bauble-4.jpg" alt="Christmas bauble" width="120">
-  <img src="assets/bauble-5.jpg" alt="Christmas bauble" width="120">
-  <img src="assets/bauble-6.jpg" alt="Christmas bauble" width="120">
+  <img src="assets/baubles-banner.png" alt="Christmas baubles with the logos of the partner societies" width="100%">
 </p>
 
 <h1 align="center">🎄 UCD Engineering & Architecture<br>Christmas Ornament Design Competition 2026 🎄</h1>
@@ -94,12 +89,6 @@ assets/          images used on this page
 Questions? Join the WhatsApp community: TBD
 
 ---
-
 <p align="center">
-  <img src="assets/bauble-1.jpg" alt="Christmas bauble" width="70">
-  <img src="assets/bauble-2.jpg" alt="Christmas bauble" width="70">
-  <img src="assets/bauble-3.jpg" alt="Christmas bauble" width="70">
-  <img src="assets/bauble-4.jpg" alt="Christmas bauble" width="70">
-  <img src="assets/bauble-5.jpg" alt="Christmas bauble" width="70">
-  <img src="assets/bauble-6.jpg" alt="Christmas bauble" width="70">
+  <img src="assets/baubles-banner.png" alt="Christmas baubles" width="60%">
 </p>
