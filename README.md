@@ -1,12 +1,21 @@
-# UCD Engineering & Architecture Christmas Ornament Design Competition 2026
+<p align="center">
+  <img src="assets/bauble-1.jpg" alt="Christmas bauble" width="120">
+  <img src="assets/bauble-2.jpg" alt="Christmas bauble" width="120">
+  <img src="assets/bauble-3.jpg" alt="Christmas bauble" width="120">
+  <img src="assets/bauble-4.jpg" alt="Christmas bauble" width="120">
+  <img src="assets/bauble-5.jpg" alt="Christmas bauble" width="120">
+  <img src="assets/bauble-6.jpg" alt="Christmas bauble" width="120">
+</p>
+
+<h1 align="center">🎄 UCD Engineering & Architecture<br>Christmas Ornament Design Competition 2026 🎄</h1>
 
 Design a Christmas ornament. If you're selected, mentors from across UCD will help you turn it into a real object, and it will be **displayed on the student-made Christmas tree** for the College of Engineering & Architecture.
 
-**Submission deadline: 8th November**
+<p align="center"><b>📅 Submission deadline: 8th November</b></p>
 
 ---
 
-## How to enter
+## ✏️ How to enter
 
 1. Make an **A4 poster** of your ornament design. It must include:
    - your design (drawing, render or sketch)
@@ -20,7 +29,7 @@ You don't need any CAD or GitHub experience to enter. The poster is enough.
 
 ---
 
-## What you can win
+## 🎁 What you can win
 
 Selected entrants get to:
 
@@ -35,7 +44,7 @@ Selected entrants get to:
 
 ---
 
-## Rules and scope
+## 📏 Rules and scope
 
 | | |
 |---|---|
@@ -48,7 +57,7 @@ Selected entrants get to:
 
 ---
 
-## Timeline
+## 🗓️ Timeline
 
 | Date | What happens |
 |---|---|
@@ -59,9 +68,14 @@ Selected entrants get to:
 
 ---
 
-## Sample ornaments
+## ❄️ Sample ornaments
 
 Look in [`samples/`](samples/) for ornaments we made, with their files and posters, to show what's possible.
+
+| [Snowflake PCB](samples/snowflake/) |
+|:---:|
+| <img src="samples/snowflake/images/3d-render.png" alt="Snowflake PCB render" width="250"> |
+| A super simple Snowflake PCB by Albin Andrews Joby |
 
 ---
 
@@ -70,10 +84,22 @@ Look in [`samples/`](samples/) for ornaments we made, with their files and poste
 ```
 README.md        this page
 samples/         example ornaments
+assets/          images used on this page
 ```
 
 ---
 
-## Questions
+## 💬 Questions
 
 Questions? Join the WhatsApp community: TBD
+
+---
+
+<p align="center">
+  <img src="assets/bauble-1.jpg" alt="Christmas bauble" width="70">
+  <img src="assets/bauble-2.jpg" alt="Christmas bauble" width="70">
+  <img src="assets/bauble-3.jpg" alt="Christmas bauble" width="70">
+  <img src="assets/bauble-4.jpg" alt="Christmas bauble" width="70">
+  <img src="assets/bauble-5.jpg" alt="Christmas bauble" width="70">
+  <img src="assets/bauble-6.jpg" alt="Christmas bauble" width="70">
+</p>
