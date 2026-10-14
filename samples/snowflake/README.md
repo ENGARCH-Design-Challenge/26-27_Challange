@@ -1,8 +1,6 @@
 # Snowflake
 
-**Made by Albin Andrews Joby**
-
-A light-up snowflake ornament designed as a PCB in KiCad.
+A super simple Snowflake PCB by **Albin Andrews Joby**.
 
 <p align="center">
   <img src="images/3d-render.png" alt="3D render of the Snowflake PCB" width="500">
