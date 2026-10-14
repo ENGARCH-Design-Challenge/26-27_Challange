@@ -96,6 +96,9 @@ Great ornaments made by others, for inspiration. Click through to see the full d
 |:---:|:---:|:---:|
 | <a href="https://makerworld.com/en/models/2129753-christmas-gnome-couple-in-ornament-style-with-hear"><img src="https://makerworld.bblmw.com/makerworld/model/US38599f828d1efb/design/2025-12-18_5d5bdf68fb529.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Gnome Couple ornament" width="220"></a> | <a href="https://makerworld.com/en/models/826178-stitch-eating-star-tree-topper"><img src="https://makerworld.bblmw.com/makerworld/model/USc2b41574888eb7/design/2024-11-27_d08b41572e22d.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Stitch Eating Star tree topper" width="220"></a> | <a href="https://makerworld.com/en/models/872702-christmas-bauble-decoration"><img src="https://makerworld.bblmw.com/makerworld/model/US98b5a1ed9ab69a/design/2024-12-12_ecb8db1c67952.jpeg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Christmas Bauble Decoration" width="220"></a> |
 | By [Lumorna](https://makerworld.com/en/@_sTe_) · 3D printed | By [K's Cutesy Creations](https://makerworld.com/en/@kendrac) · 3D printed, hand painted | By [clamoraes](https://makerworld.com/en/@clamoraes) · 3D printed · 50–60 mm, fits the 80 mm box ✅ |
+| **[Homer Bushes Ornament](https://makerworld.com/en/models/773052-homer-bushes-ornament-4-color)** | | |
+| <a href="https://makerworld.com/en/models/773052-homer-bushes-ornament-4-color"><img src="https://makerworld.bblmw.com/makerworld/model/US351bf7fa1f864b/design/2024-11-09_a068653b77815.jpg?x-oss-process=image/resize,w_600/ignore-error,1" alt="Homer Bushes ornament" width="220"></a> | | |
+| By [Printed Solutions](https://makerworld.com/en/@danielnc06) · 4-colour flat print · ~100 mm tall | | |
 
 <br clear="all">
 
