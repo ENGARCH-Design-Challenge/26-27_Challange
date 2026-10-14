@@ -24,6 +24,12 @@ Uses the same footprints as the [Snowflake](../snowflake/). Every LED has its ow
   <img src="images/pcb-layout.png" alt="Christmas Tree PCB layout" width="450">
 </p>
 
+### Schematic
+
+<p align="center">
+  <img src="images/schematic.png" alt="Christmas Tree schematic" width="550">
+</p>
+
 ## Skills used
 
 - PCB design (KiCad)
