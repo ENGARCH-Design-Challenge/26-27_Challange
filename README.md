@@ -123,11 +123,11 @@ assets/          images used on this page
 
 ---
 
-## 💬 Questions
+## 💬 Join the community
 
 <img src="assets/bauble-2.png" align="right" width="90" alt="Christmas bauble">
 
-Questions? [Join the WhatsApp community](https://chat.whatsapp.com/GV3IXCqxevpB8WDYRLQPnq?s=cl&p=a&mlu=4&ilr=4)
+All announcements (shortlist, workshops, dates and updates) go out in the WhatsApp community, and it's the place to ask questions too. [Join the WhatsApp community](https://chat.whatsapp.com/GV3IXCqxevpB8WDYRLQPnq?s=cl&p=a&mlu=4&ilr=4)
 
 <br clear="all">
 
