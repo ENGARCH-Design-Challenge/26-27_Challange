@@ -127,7 +127,7 @@ assets/          images used on this page
 
 <img src="assets/bauble-2.png" align="right" width="90" alt="Christmas bauble">
 
-Questions? Join the WhatsApp community: TBD
+Questions? [Join the WhatsApp community](https://chat.whatsapp.com/GV3IXCqxevpB8WDYRLQPnq?s=cl&p=a&mlu=4&ilr=4)
 
 <br clear="all">
 
