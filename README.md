@@ -5,7 +5,7 @@
 <h1 align="center">🎄 UCD Engineering & Architecture<br>Christmas Ornament Design Competition 2026 🎄</h1>
 
 <img src="assets/bauble-3.png" align="left" width="100" alt="Christmas bauble">
-<img src="assets/bauble-6.png" align="right" width="100" alt="Christmas bauble">
+<img src="assets/bauble-4.png" align="right" width="100" alt="Christmas bauble">
 
 Design a Christmas ornament. If you're selected, mentors from across UCD will help you turn it into a real object, and it will be **displayed on the student-made Christmas tree** for the College of Engineering & Architecture.
 
@@ -18,7 +18,7 @@ Design a Christmas ornament. If you're selected, mentors from across UCD will he
 
 ## ✏️ How to enter
 
-<img src="assets/bauble-5.png" align="right" width="110" alt="Christmas bauble">
+<img src="assets/bauble-1.png" align="right" width="110" alt="Christmas bauble">
 
 1. Make an **A4 poster** of your ornament design. It must include:
    - Your design (drawing, render or sketch)
@@ -36,7 +36,7 @@ You don't need any CAD or GitHub experience to enter. The poster is enough.
 
 ## 🎁 What you can win
 
-<img src="assets/bauble-4.png" align="right" width="110" alt="Christmas bauble">
+<img src="assets/bauble-6.png" align="right" width="110" alt="Christmas bauble">
 
 Selected entrants get to:
 
@@ -79,7 +79,7 @@ Selected entrants get to:
 
 ## ❄️ Sample ornaments
 
-<img src="assets/bauble-1.png" align="right" width="110" alt="Christmas bauble">
+<img src="assets/bauble-5.png" align="right" width="110" alt="Christmas bauble">
 
 Look in [`samples/`](samples/) for ornaments we made, with their files and posters, to show what's possible.
 
