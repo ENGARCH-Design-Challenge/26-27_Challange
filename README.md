@@ -25,7 +25,7 @@ Design a Christmas ornament. If you're selected, mentors from across UCD will he
    - **Maximum dimensions of 80 mm**
    - Relevant technical details (how it would be made, materials, any electronics)
    - **Your email address**
-2. Submit it through the entry form: **TBD**
+2. Submit it through the entry form: **[Enter here](https://docs.google.com/forms/d/e/1FAIpQLSdwIWsEeTvkS3NkVfNTX9nZg9X-aSAZsK2p2K7rYOcESoTMaQ/viewform)**
 3. Wait for the shortlist. Selected entrants are contacted by email and invited to this repository to upload their final files.
 
 You don't need any CAD or GitHub experience to enter. The poster is enough.
