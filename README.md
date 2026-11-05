@@ -83,10 +83,10 @@ Selected entrants get to:
 
 Look in [`samples/`](samples/) for ornaments we made, with their files and posters, to show what's possible.
 
-| [Snowflake PCB](samples/snowflake/) | [Christmas Tree PCB](samples/christmas-tree/) |
-|:---:|:---:|
-| <img src="samples/snowflake/images/3d-render.png" alt="Snowflake PCB render" width="250"> | <img src="samples/christmas-tree/images/3d-render.png" alt="Christmas Tree PCB render" width="220"> |
-| A super simple Snowflake PCB by Albin Andrews Joby | A Christmas tree PCB by Elizabeta (Lisaaa!) Berisha |
+| [Snowflake PCB](samples/snowflake/) | [Christmas Tree PCB](samples/christmas-tree/) | [Snowman PCB](samples/snowman/) |
+|:---:|:---:|:---:|
+| <img src="samples/snowflake/images/3d-render.png" alt="Snowflake PCB render" width="250"> | <img src="samples/christmas-tree/images/3d-render.png" alt="Christmas Tree PCB render" width="220"> | <img src="samples/snowman/images/3d-render.png" alt="Snowman PCB render" width="220"> |
+| A super simple Snowflake PCB by Albin Andrews Joby | A Christmas tree PCB by Elizabeta (Lisaaa!) Berisha | A snowman PCB by Anesa Gashi |
 
 ### 🌍 Community designs
 
