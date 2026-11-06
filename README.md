@@ -88,6 +88,28 @@ Look in [`samples/`](samples/) for ornaments we made, with their files and poste
 | <img src="samples/snowflake/images/3d-render.png" alt="Snowflake PCB render" width="250"> | <img src="samples/christmas-tree/images/3d-render.png" alt="Christmas Tree PCB render" width="220"> | <img src="samples/snowman/images/3d-render.png" alt="Snowman PCB render" width="220"> |
 | A super simple Snowflake PCB by Albin Andrews Joby | A Christmas tree PCB by Elizabeta (Lisaaa!) Berisha | A snowman PCB by Anesa Gashi |
 
+### 🔌 Footprints
+
+Want to copy the parts we used? Paste these into the footprint field in KiCad (hit the copy button on each).
+
+**Hole / test point**
+
+```
+TestPoint:TestPoint_Plated_Hole_D2.0mm
+```
+
+**LED**
+
+```
+LED_THT:LED_D3.0mm
+```
+
+**Resistor**
+
+```
+Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+```
+
 ### 🌍 Community designs
 
 Great ornaments made by others, for inspiration. Click through to see the full design on MakerWorld.
